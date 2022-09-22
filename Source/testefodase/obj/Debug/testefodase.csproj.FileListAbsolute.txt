@@ -1,0 +1,15 @@
+C:\Users\Lil Lucas\source\repos\testefodase\testefodase\bin\Debug\testefodase.exe.config
+C:\Users\Lil Lucas\source\repos\testefodase\testefodase\bin\Debug\testefodase.exe
+C:\Users\Lil Lucas\source\repos\testefodase\testefodase\bin\Debug\testefodase.pdb
+C:\Users\Lil Lucas\source\repos\testefodase\testefodase\obj\Debug\testefodase.csproj.AssemblyReference.cache
+C:\Users\Lil Lucas\source\repos\testefodase\testefodase\obj\Debug\testefodase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lil Lucas\source\repos\testefodase\testefodase\obj\Debug\testefodase.Form1.resources
+C:\Users\Lil Lucas\source\repos\testefodase\testefodase\obj\Debug\testefodase.Properties.Resources.resources
+C:\Users\Lil Lucas\source\repos\testefodase\testefodase\obj\Debug\testefodase.csproj.GenerateResource.cache
+C:\Users\Lil Lucas\source\repos\testefodase\testefodase\obj\Debug\testefodase.csproj.CoreCompileInputs.cache
+C:\Users\Lil Lucas\source\repos\testefodase\testefodase\obj\Debug\testefodase.exe
+C:\Users\Lil Lucas\source\repos\testefodase\testefodase\obj\Debug\testefodase.pdb
+C:\Users\Lil Lucas\source\repos\testefodase\testefodase\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Lil Lucas\source\repos\testefodase\testefodase\obj\Debug\testefodase.csproj.CopyComplete
+C:\Users\Lil Lucas\source\repos\testefodase\testefodase\bin\Debug\Memory.dll
+C:\Users\Lil Lucas\source\repos\testefodase\testefodase\obj\Debug\Xanax.XanaxAlert.resources
